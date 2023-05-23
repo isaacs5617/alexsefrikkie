@@ -2,7 +2,7 @@ name: "Sunsynk Scraper"
 description: "Scrapes the SunSynk / inteless API for data on your solar setup!"
 version: "0.2.12"
 slug: "sunsynk-scraper"
-url: "https://github.com/ThePheonixGuy/sunsynk-scraper-addon/tree/main/sunsynk-scraper"
+url: "https://github.com/isaacs5617/alexsefrikkie/edit/main/sunsynk-scraper//tree/main/sunsynk-scraper"
 init: false
 arch:
   - aarch64
