@@ -1,4 +1,4 @@
 # https://developers.home-assistant.io/docs/add-ons/repository#repository-configuration
 name: Sunsynk Scraper Addon
-url: 'https://github.com/ThePheonixGuy/sunsynk-scraper-addon'
-maintainer: ThePheonixGuy <james@thephoenixguy.dev>
+url: 'https://github.com/isaacs5617/alexsefrikkie'
+maintainer: AlexBurger <alexburger@gmail.com>
